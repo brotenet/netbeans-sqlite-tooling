@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: nb.module.tooling.sqlite
+OpenIDE-Module-Layer: nb/module/tooling/sqlite/layer.xml
+OpenIDE-Module-Localizing-Bundle: nb/module/tooling/sqlite/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
